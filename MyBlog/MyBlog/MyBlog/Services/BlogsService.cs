@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MyBlog.Services
 {
-    public class BlogsService
+    public class BlogsService : IBlogsService
     {
         private readonly IMongoCollection<Post> _postsCollection;
 

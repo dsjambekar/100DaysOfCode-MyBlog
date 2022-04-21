@@ -13,9 +13,9 @@ namespace MyBlog.Controllers
 
     public class BlogController : ControllerBase
     {
-        private readonly BlogsService _blogsService;
+        private readonly IBlogsService _blogsService;
 
-        public BlogController(BlogsService blogsService)
+        public BlogController(IBlogsService blogsService)
         {
             _blogsService = blogsService ?? throw new ArgumentNullException(nameof(blogsService));
         }

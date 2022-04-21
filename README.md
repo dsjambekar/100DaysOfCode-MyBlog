@@ -18,3 +18,9 @@ Highlight of the day -
 5. Learnt about _CreatedAtAction()_
 6. Learnt about _yield_
 7. Learnt about action results in general from here - https://docs.microsoft.com/en-us/aspnet/core/web-api/action-return-types?view=aspnetcore-6.0
+
+#Day3
+Went through a video related to using Moq for testing.
+https://docs.microsoft.com/en-us/shows/visual-studio-toolbox/unit-testing-moq-framework
+Tried implementing one test case. But it is failing right now. Will continue tomorrow.
+Learnt some more git commands. (yay!)
