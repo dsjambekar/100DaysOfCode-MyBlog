@@ -24,3 +24,11 @@ Went through a video related to using Moq for testing.
 https://docs.microsoft.com/en-us/shows/visual-studio-toolbox/unit-testing-moq-framework
 Tried implementing one test case. But it is failing right now. Will continue tomorrow.
 Learnt some more git commands. (yay!)
+
+#Day4
+Got carried away with the test cases.
+Didnt finish them all. 
+But found some good examples-
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/testing-and-debugging/unit-testing-controllers-in-web-api
+https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing?view=aspnetcore-6.0
+Will continue later.
