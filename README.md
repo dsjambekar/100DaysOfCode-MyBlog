@@ -32,3 +32,8 @@ But found some good examples-
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/testing-and-debugging/unit-testing-controllers-in-web-api
 https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing?view=aspnetcore-6.0
 Will continue later.
+
+#Day5
+Started with React frontend.
+Created project with create-react-app and added bootstrap.
+Added basic navbar.
