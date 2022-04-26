@@ -37,3 +37,9 @@ Will continue later.
 Started with React frontend.
 Created project with create-react-app and added bootstrap.
 Added basic navbar.
+
+#Day6
+A slow day.
+Just added theme toggle button. Thought it will be something difficult.
+Still it is satifying.
+Followed this tutorial - https://www.smashingmagazine.com/2020/04/dark-mode-react-apps-styled-components/
