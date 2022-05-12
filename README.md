@@ -43,3 +43,10 @@ A slow day.
 Just added theme toggle button. Thought it will be something difficult.
 Still it is satifying.
 Followed this tutorial - https://www.smashingmagazine.com/2020/04/dark-mode-react-apps-styled-components/
+
+#Day7-#Day16
+I did lot of other stuff in between which I couldn't really push to git as it was just practicing some imprompto tutorials. I learnt about identity in asp.net core. Started react tutorial on Scrimba by Bob Ziroll. Created a digital business card based on the tutorial.
+
+#Day17
+As I am working on React tutorial, I created a journal for my #100DaysOfCode journey. I am going to put my day details in a normal json file and show that info on the app. Nothing much. Later, I have plan to put all this in one blog (journal + digital business card). Let's see. Hoping for the best.
+
