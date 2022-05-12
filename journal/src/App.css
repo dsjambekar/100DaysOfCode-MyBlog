@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+.App {
+	text-align: left;
+	font-family: Inter;
+	box-sizing: border-box;
+}
+
+.App-logo {
+	height: 40vmin;
+	pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
+}
+
+.App-header {
+	background-color: #f55a5a;
+	color: white;
+	/* min-height: 100vh; */
+	height: 70px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	/* color: white; */
+}
+
+.App-link {
+	color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.container {
+	/* width: 760px; */
+	margin: auto;
+	margin-top: 46px;
+}
+
+.page {
+	font-size: 12px;
+	margin: 10px 40px;
+	border-bottom: 1px solid lightslategray;
+}
+
+.page-day {
+	letter-spacing: 2px;
+}
+
+.page-day-hashtag {
+	color: #f55a5a;
+	font-weight: 700;
+}
+
+.page-title {
+	margin: 7px 0 14px;
+	font-size: 25px;
+	font-weight: 700;
+}
+
+.page-date {
+	font-weight: 700;
+}
